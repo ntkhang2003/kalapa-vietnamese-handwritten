@@ -1897,7 +1897,7 @@ TRÔI
 CỔNG
 thơi,
 DÍU
-tra?
+tra
 quê
 bch
 ĐĂNG,
@@ -1908,7 +1908,7 @@ quới
 chiết,
 cọc
 ngăn
-rừng?
+rừng
 QUẬT
 THÔN)
 mâm
@@ -1936,7 +1936,7 @@ usd
 tnêu
 nặng,
 XẮN
-quả?
+quả
 ở
 liễn
 CÓC
@@ -1983,7 +1983,7 @@ lầu
 CÃI
 lận
 CHÉP
-TỘI?
+TỘI
 mò
 cô
 BỈ
@@ -1994,7 +1994,7 @@ HỐT
 LỘ
 TẰNG
 XUÃN
-ÔNG?
+ÔNG
 nào
 tha
 362B,
@@ -2154,7 +2154,7 @@ NHẠT
 hỏi
 CHIÊNG,
 209
-tiền?
+tiền
 dèm
 quê;
 CHỊ
@@ -2163,7 +2163,7 @@ quối
 LỐI
 truych
 42
-22?
+22
 LÊ
 8B
 quen
@@ -2377,7 +2377,7 @@ LẬP
 họp
 thói
 bàu,
-NÀY?
+NÀY
 2000,
 thấm
 thoảng
@@ -2454,7 +2454,7 @@ NẢN,
 BÈ,
 vấn,
 RẼ
-sao?
+sao
 phối
 campuchia,
 kiệu
@@ -2901,7 +2901,7 @@ TIẾP:
 mâu
 DỤM
 LƯỠI
-TIẾT?
+TIẾT
 VĨNH
 LUẬN,
 dầu
@@ -2984,7 +2984,7 @@ NGA,
 LỎNG,
 102gch
 bí
-tphcm?
+tphcm
 3260
 THỨA
 CHẦU
@@ -3121,7 +3121,7 @@ tất
 chụ
 khôi
 BẰNG
-nào?
+nào
 (BA
 KĐRỘ
 NÔNG
