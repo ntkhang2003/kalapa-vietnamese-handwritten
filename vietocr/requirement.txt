@@ -1,2 +1,3 @@
 einops==0.2.0
 lmdb
+scikit-image==0.22
