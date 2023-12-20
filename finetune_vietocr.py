@@ -1,15 +1,16 @@
 import matplotlib.pyplot as plt
 from PIL import Image
 
-from vietocr.tool.config import Cfg
-from vietocr.model.trainer import Trainer
+from vietocr.vietocr.tool.config import Cfg
+from vietocr.vietocr.model.trainer import Trainer
+import argparse
 
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_path', type=str, default='data/')
-    parser.add_argument('--config', type=str, default='config.yml')
+    parser.add_argument('--config', type=str, default='config/config.yml')
     parser.add_argument('--device', type=str, default='cuda:0', help='cuda:0 or cpu')
-    parser.add_argument('--weight_path', type=str, default='weight/transformer_ocr.pth')
+    parser.add_argument('--weight_path', type=str, default='weights/transformer_ocr.pth')
     args = parser.parse_args()
     return args
 

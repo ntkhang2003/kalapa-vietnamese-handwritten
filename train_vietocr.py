@@ -1,8 +1,9 @@
 import matplotlib.pyplot as plt
 from PIL import Image
 
-from vietocr.tool.config import Cfg
-from vietocr.model.trainer import Trainer
+from vietocr.vietocr.tool.config import Cfg
+from vietocr.vietocr.model.trainer import Trainer
+import argparse
 
 def parse_args():
     parser = argparse.ArgumentParser()

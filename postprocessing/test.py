@@ -1,4 +1,5 @@
 import pandas as pd
+import argparse
 
 from address_correction import AddressCorrection
 address_correction = AddressCorrection()
@@ -19,7 +20,7 @@ def correct(answer):
     result = " ".join([x.capitalize() for x in result.split()])
     if result.strip()==answer:
         diff=0
-    return result.strip(),#diff
+    return result.strip()
 
 def main():
     args = parse_args()
